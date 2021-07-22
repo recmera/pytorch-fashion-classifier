@@ -7,9 +7,9 @@
 - **Javier Mansilla** javier dot mansilla01 at alumnos dot uach dot cl
 - **Diego Sandoval** diego dot sandoval01 at alumnos dot uach dot cl
 
-## Descripcion
+## Descripción
 
-Tarea grupal numero cuatro de la asignatura *Inteligencia Artifical* INFO257 de la carrera Ingenieria Civil Informatica.
+Tarea grupal numero cuatro de la asignatura *Inteligencia Artifical* INFO257 de la carrera Ingeniería Civil en Informática.
 
 
 ### Instrucciones específicas
