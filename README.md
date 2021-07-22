@@ -50,7 +50,11 @@ Estos experimentos fueron desarrollados en el computador *Waldner* del laborator
 |matplotlib|3.3.4|
 
 ## Referencias
-[1] https://github.com/ufoym/imbalanced-dataset-sampler
-[2] https://github.com/zalandoresearch/fashion-mnist
-[3] Classifying Garments from Fashion-MNIST Dataset Through CNNs
-[4] A.S. Henrique, A.M.R. Fernandes, R. Lyra, V.R.Q. Leithardt, S.D. Correia, P. Crocker, R.L.S. Dazzi "Classifying Garments from Fashion-MNIST Dataset Through CNNs", Advances in Science, Technology and Engineering Systems Journal, vol. 6, no. 1, pp. 989-994 (2021).
+
+[1] Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms. Han Xiao, Kashif Rasul, Roland Vollgraf. Dataset Disponible en https://github.com/zalandoresearch/fashion-mnist
+
+[2] P. Huijse "INFO257: Inteligencia Artificial 2020" Módulo Redes Neuronales Artificiales. Disponible en https://github.com/phuijse/INFO257
+
+[3] A.S. Henrique, A.M.R. Fernandes, R. Lyra, V.R.Q. Leithardt, S.D. Correia, P. Crocker, R.L.S. Dazzi "Classifying Garments from Fashion-MNIST Dataset Through CNNs", Advances in Science, Technology and Engineering Systems Journal, vol. 6, no. 1, pp. 989-994 (2021). Disponible en https://astesj.com/v06/i01/p109/ 
+
+[4] Imbalanced Dataset Sampler. Disponible en https://github.com/ufoym/imbalanced-dataset-sampler
