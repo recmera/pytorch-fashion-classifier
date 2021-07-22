@@ -5,7 +5,7 @@
 - **Ricardo Coronado** ricardo dot coronado at alumnos dot uach dot cl
 - **Diego Espejo** diego dot espejo at alumnos dot uach dot cl
 - **Javier Mancilla**
-- **Diego Sandoval**
+- **Diego Sandoval** diego dot sandoval at alumnos dot uach dot cl
 
 ## Descripcion
 
