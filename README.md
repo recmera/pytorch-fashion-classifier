@@ -4,8 +4,8 @@
 ## Integrantes
 - **Ricardo Coronado** ricardo dot coronado at alumnos dot uach dot cl
 - **Diego Espejo** diego dot espejo at alumnos dot uach dot cl
-- **Javier Mancilla**
-- **Diego Sandoval** diego dot sandoval at alumnos dot uach dot cl
+- **Javier Mansilla** javier dot mansilla01 at alumnos dot uach dot cl
+- **Diego Sandoval** diego dot sandoval01 at alumnos dot uach dot cl
 
 ## Descripcion
 
