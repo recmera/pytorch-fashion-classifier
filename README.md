@@ -32,7 +32,7 @@ En esta tarea ustedes deben diseñar, entrenar y evaluar un modelo de red convol
 ## Características de máquina y entorno
 
 ### Máquina
-Estos experimentos fueron desarrollados en el computador *Waldner* del laboratorio de procesamiento de señales del instituto de Acústica UACh. La principal caracteristica de dicha maquina es su tarjeta grafica GeForce RTX 2080.
+Estos experimentos fueron desarrollados en el computador *Waldner* del laboratorio de procesamiento de señales del instituto de Acústica UACh. La principal característica de dicha máquina es su tarjeta gráfica GeForce RTX 2080.
 
 
 ### Entorno virtual conda
