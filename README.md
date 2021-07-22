@@ -29,9 +29,9 @@ En esta tarea ustedes deben diseñar, entrenar y evaluar un modelo de red convol
 - Evalue la capacidad de generalización de la mejor Lenet5 y red propia midiendo su rendimiento en el subconjunto de prueba. Utilice matrices de confusión y reportes de clasificación (precisión, recall y *f1-score*). ¿Cuáles clases son más difíciles de clasificar? ¿Cuáles clases tienden a confudirse entre sí?
 - Reporte el proceso, justifique sus decisiones y discuta sus resultados
 
-## Caracteristicas de maquina y entorno
+## Características de máquina y entorno
 
-### Maquina
+### Máquina
 Estos experimentos fueron desarrollados en el computador *Waldner* del laboratorio de procesamiento de señales del instituto de Acústica UACh. La principal caracteristica de dicha maquina es su tarjeta grafica GeForce RTX 2080.
 
 
